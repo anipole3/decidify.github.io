@@ -1,0 +1,10 @@
+TO RUN THE SERVER LOCALLY 
+DO THE FOLLOWING STEPS
+in the terminal bar write:
+
+
+1. export FLASK_APP=server.py   (press enter)
+
+2. export FLASK_DEBUG=1          (press enter)
+
+3. flask run                        (press enter)
